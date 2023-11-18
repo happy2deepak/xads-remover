@@ -1,0 +1,3 @@
+[data-testid="placementTracking"]:not(:has([data-testid="videoPlayer"])) {
+  display: none;
+}
